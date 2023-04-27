@@ -1,6 +1,6 @@
 # CPSC349-Project2-JavaScript-Clock
 
-Joshua Erickson CPSC 392 Project 2 
+Joshua Erickson CPSC 349 Project 2 
 
 Create a Digital seconds clock using Set Interval and Date Object in javasript. 
 The Date object can be used to get the date, time, hours, and seconds which can be update using set Interval. 
